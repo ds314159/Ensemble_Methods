@@ -5,7 +5,7 @@ Ce projet explore l'utilisation de méthodes d'ensemble en apprentissage automat
 
 ## Structure du projet
 - **Rapport**
-  - `rapport.html` (recommandé pour une lecture confortable)
+  - `rapport.html` (recommandé pour une lecture confortable, a besoin du dossier graphiques pour affichage correcte)
   - `rapport.pdf`
 
 - **Code**
@@ -15,9 +15,8 @@ Ce projet explore l'utilisation de méthodes d'ensemble en apprentissage automat
   - Résultats
     - Fichiers `.pkl` contenant les résultats des expériences
     - Note : `global_models.pkl` n'est pas inclus en raison de sa taille. Disponible sur demande.
-
-  - Ressources
-    - `/graphiques`: Dossier contenant les graphiques générés
+- **Ressources**
+    - `/graphiques`: Dossier contenant les graphiques générés, nécéssaires pour la visualisation du rapport en HTML
     - `/datasets`: Dossier contenant les jeux de données utilisés
 
 ## Installation et utilisation
