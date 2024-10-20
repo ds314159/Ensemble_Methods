@@ -12,13 +12,13 @@ Ce projet explore l'utilisation de méthodes d'ensemble en apprentissage automat
   - `Tools.py`: Fonctions utilitaires implémentées pour le projet
   - `Steps_and_Results.ipynb`: Notebook Jupyter détaillant le prétraitement des données et les étapes du protocole expérimental
 
-- **Résultats**
-  - Fichiers `.pkl` contenant les résultats des expériences
-  - Note : `global_models.pkl` n'est pas inclus en raison de sa taille. Disponible sur demande.
+  - Résultats
+    - Fichiers `.pkl` contenant les résultats des expériences
+    - Note : `global_models.pkl` n'est pas inclus en raison de sa taille. Disponible sur demande.
 
-- **Ressources**
-  - `/graphiques`: Dossier contenant les graphiques générés
-  - `/datasets`: Dossier contenant les jeux de données utilisés
+  - Ressources
+    - `/graphiques`: Dossier contenant les graphiques générés
+    - `/datasets`: Dossier contenant les jeux de données utilisés
 
 ## Installation et utilisation
 
