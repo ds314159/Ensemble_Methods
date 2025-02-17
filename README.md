@@ -10,14 +10,14 @@
 
 ## 📋 Description du projet
 
-Ce projet explore l'utilisation de méthodes d'ensemble en apprentissage automatique, sur une varieté de datasets dont des très déséquilibrés. Il comprend une analyse détaillée, du code expérimental et des résultats visualisés.
+Ce projet explore l'utilisation de méthodes d'ensemble en apprentissage automatique, sur une varieté de datasets dont des très déséquilibrés. 
 
 ## 📁 Structure du projet
 
 ### 📊 Rapport
-- `rapport.html` - Format recommandé pour une lecture confortable
+- `rapport.html` - Format recommandé  à télécharger pour une lecture confortable
  > Nécessite le dossier /graphiques pour un affichage correct
-- `rapport.pdf` - Version portable du rapport
+- `rapport.pdf` - Version pdf
 
 ### 💻 Code source
 - `Tools.py` - Fonctions utilitaires implémentées pour le projet
