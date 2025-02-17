@@ -1,4 +1,4 @@
-# 🔄 Ensemble Methods Final Project
+# 🔄 Ensemble Methods
 
 <div align="center">
 
